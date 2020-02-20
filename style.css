@@ -1,7 +1,13 @@
-
 body {
 
     background-color: #6C3CBC;
-    font-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
+html {
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 4em;
+    padding-top: 2em;
+
+}
