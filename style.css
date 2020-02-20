@@ -11,3 +11,23 @@ html {
     padding-top: 2em;
 
 }
+
+a {
+    color: #FFFFFF;
+    font-style: italic;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+nav {
+
+    background-color: #8000FF;
+}
+
+img {
+    height: auto;
+    width: auto;
+
+}
